@@ -1,0 +1,29 @@
+body {
+    background-image:url('https://www.infomoney.com.br/wp-content/uploads/2019/10/shutterstock_1422026900.jpg?w=768&quality=75&strip=all');
+  background-size:auto 100vh;
+  }
+  .menu{
+    background-color:white;
+  }
+  a{
+   color:teal;
+    text-decoration:none;}
+  a:hover{
+    text-decoration:underline;
+  }
+  .site-subtitle,
+  .site-title{
+    color:whitesmoke;
+    text-align:center;
+  }
+  .site-subtitle{
+    color:black;
+    font-style:italic;
+  }
+  .menu ul{
+    display:flex;
+  justify-content:space-around;
+  }
+  .menu li{
+    list-style:none;
+  }
